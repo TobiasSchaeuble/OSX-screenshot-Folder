@@ -1,4 +1,4 @@
-# OSX screenshot Folder
+# Change Mac OS X Screenshot Location
 
 This is small script for setting the screenshot destination on OS X
 
